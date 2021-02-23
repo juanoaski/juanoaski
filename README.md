@@ -1,5 +1,17 @@
-### Hi there 👋
+# Juan Oaski
 
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+
+Sou um FullStack Developer :computer:
+
+ :rocket:  &nbsp; Aprendendo React com o pessoal da **Rocketseat**
+ <br/> :purple_heart: &nbsp; Buscando conhecimentos em React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: PHP
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanope/)](https://www.linkedin.com/in/juanope/) 
+| 
 
 #### My contributions
 <a href="#">
@@ -9,18 +21,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoaski&theme=dracula" />
 </a>
 
-
-<!--
-**juanoaski/juanoaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
