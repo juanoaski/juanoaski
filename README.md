@@ -10,7 +10,7 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: PHP
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanope/)](https://www.linkedin.com/in/juanope/) 
+ <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/juanope/
 | 
 
 #### My contributions
