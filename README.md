@@ -18,6 +18,6 @@ Sou um FullStack Developer :computer:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=juanoaski&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoaski&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoaski&theme=dracula&langcount=8" />
 </a>
 
