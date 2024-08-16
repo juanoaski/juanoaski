@@ -5,11 +5,10 @@ Sou apaixonado por resolver problemas utilizando a programação.
 
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Aprendendo React com o pessoal da **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando conhecimentos em React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: PHP
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados no Netflix
+ <br/> :purple_heart: &nbsp; Buscando conhecimentos constantemente
+ <br/> :blush: &nbsp; Criar soluções é um prazer
+ <br/> :computer: &nbsp; Minha stack: Node, Vue, PHP, React
+ <br/> 💬  &nbsp; Sobre mim: Amo novos desafios, curto demais criar novas ferramentas.
  <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/juanope/
 | 
 
